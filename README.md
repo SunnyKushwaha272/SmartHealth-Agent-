@@ -3,8 +3,6 @@
 SmartHealth Agent is an **AI-powered healthcare assistant** that predicts the risk of several common diseases using Machine Learning.  
 It integrates **five models** – **Diabetes, Stroke, Kidney Disease, Liver Disease, and Thyroid** – into a single **Streamlit web application**.  
 
-This project was developed as part of the **Agentic AI Program (CSRBox × IBM SkillsBuild)** and aligns with **UN Sustainable Development Goal (SDG) 3: Good Health & Well-being**.  
-
 ---
 
 ## 🌟 Features
