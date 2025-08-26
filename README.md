@@ -6,7 +6,7 @@ It integrates **five models** – **Diabetes, Stroke, Kidney Disease, Liver Dise
 ---
 
 ## 🌟 Features
-- ✅ Predicts the likelihood of **Diabetes, Stroke, Kidney Disease, Liver Disease, and Thyroid**.  
+- ✅ Predicts the likelihood of **Diabetes, Stroke, Kidney Disease, Liver Disease, and Thyroid**.
 - ✅ User-friendly **Streamlit interface** for real-time health predictions.  
 - ✅ Trained on **Kaggle healthcare datasets**.  
 - ✅ Includes **Jupyter Notebooks** for training each model.  
