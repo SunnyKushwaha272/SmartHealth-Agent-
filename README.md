@@ -18,11 +18,11 @@ It integrates **five models** – **Diabetes, Stroke, Kidney Disease, Liver Dise
 ## 🖼️ Screenshots  
 
 ### 🔹 Sample UI  
-![Sample UI](images/sample_ui.png)  
+![Sample UI](image/Sample_ui.png)  
 
 ### 🔹 Diabetes Prediction  
-![Diabetes Prediction](images/diabetes_prediction.png) 
+![Diabetes Prediction](image/Diabetes_prediction.png) 
 
 
 ### 🔹 General Symptoms Analyzer  
-![General Symptoms Analyzer](images/general_symptoms.png)  
+![General Symptoms Analyzer](image/general_symptoms_analyzer.png)  
